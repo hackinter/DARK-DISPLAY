@@ -3,7 +3,7 @@
 
 Welcome to the HACKINTER project! Below is a screenshot of the website showcasing its result.
 
-![Website Screenshot](https://i.postimg.cc/vTrDqTcz/Screenshot-2024-10-08-032006.png) 
+[![Screenshot-2024-10-08-032006.png](https://i.postimg.cc/vTrDqTcz/Screenshot-2024-10-08-032006.png)](https://postimg.cc/30wKWKj4)
 
 ## Description
 This project is a demonstration of a hacking-themed website with dynamic effects and engaging content. It features links to various platforms and an audio background for an immersive experience.
